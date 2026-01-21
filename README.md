@@ -1,4 +1,4 @@
-# Speaking Unto Nations: a gcloud-speech-app
+# Gcloud-Speech-App
 
 This project utilizes the Google Cloud Text-to-Speech and Speech-to-Text APIs to convert text or SSML files into audio (MP3) and transcriptions.
 
@@ -29,7 +29,7 @@ gcloud-speech-app
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/lpep64/Speaking-Unto-Nations.git
+   git clone https://github.com/lpep64/Gcloud-Speech-App.git
    cd gcloud-speech-app
    ```
 
